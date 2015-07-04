@@ -60,7 +60,7 @@ module.exports = function(grunt) {
             },
             pages: {
                 options: {
-                    remote: 'https://github.com/domofactor/domofactor', // change that
+                    remote: 'https://domofactor:d4adac40413f8c645403a59b9c6408a18ef3e6c6@github.com/domofactor/domofactor', // change that
                     branch: 'gh-pages' // adjust here
                 }
             }
