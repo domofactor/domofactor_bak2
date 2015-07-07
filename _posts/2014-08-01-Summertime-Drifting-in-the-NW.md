@@ -5,9 +5,7 @@ tags: [s13,rps13,180sx,240sx,typex,midnightpurple,nissan,parc,drift,evd,evergree
 categories: [Cars]
 comments: true
 share: true
-image:
-  feature: Summertime_Drifting_In_The_NW/feature.jpg
-  credit: Krafted Photography
+featimg: Summertime_Drifting_In_The_NW/PARCfest-2014_18.jpg
 ---
 After having the time of my life down at PARC back in the Spring of 2014 I thought "I HAVE to come back here!". So, I did and was able to experience just how awesome summertime drifting in the Northwest really is! If you haven't seen my last post on [Catching The Drift Bug](http://{{ site.url }}/catching-the-drift-bug/), I reccomend going to check it out!
 <br>

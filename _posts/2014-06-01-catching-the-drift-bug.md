@@ -5,9 +5,7 @@ tags: [s13,rps13,180sx,240sx,typex,midnightpurple,nissan,parc,drift,evd,evergree
 categories: [Cars]
 comments: true
 share: true
-image:
-  feature: Catching_The_Drift_Bug/feature.jpg
-  credit: Krafted Photography
+featimg: Catching_The_Drift_Bug/teamorange_school_2.jpg
 ---
 I've been following drifting here in the Pacific Northwest since around 2007, and in general since the early 2000's. While watching everything is great, A few years ago I really felt like it was time to start driving myself instead of just sitting around.   
 <br>
