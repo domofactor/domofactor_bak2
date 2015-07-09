@@ -21,7 +21,7 @@
   - filename: evd117_7.jpg
   - filename: evd117_8.jpg
   - filename: evd117_9.jpg
-- id: PARC_20140518
+- id: parc_20140518
   imagefolder: /img/Catching_The_Drift_Bug
   images:
   - filename: PARC_20140518_1.jpg
@@ -37,3 +37,50 @@
   - filename: PARC_20140518_12.jpg
   - filename: PARC_20140518_13.jpg
   - filename: PARC_20140518_14.jpg
+- id: parc_20140713
+  imagefolder: /img/Summertime_Drifting_In_The_NW
+  images:
+  - filename: PARC_20140713_1.jpg
+  - filename: PARC_20140713_2.jpg
+  - filename: PARC_20140713_3.jpg
+  - filename: PARC_20140713_5.jpg
+  - filename: PARC_20140713_6.jpg
+  - filename: PARC_20140713_7.jpg
+  - filename: PARC_20140713_8.jpg
+  - filename: PARC_20140713_9.jpg
+  - filename: PARC_20140713_11.jpg
+  - filename: PARC_20140713_12.jpg
+  - filename: PARC_20140713_13.jpg
+  - filename: PARC_20140713_14.jpg
+  - filename: PARC_20140713_15.jpg
+  - filename: PARC_20140713_16.jpg
+  - filename: PARC_20140713_17.jpg
+  - filename: PARC_20140713_18.jpg
+- id: parcfest_2014
+  imagefolder: /img/Summertime_Drifting_In_The_NW
+  images:
+  - filename: PARCfest-2014_1.jpg
+  - filename: PARCfest-2014_2.jpg
+  - filename: PARCfest-2014_3.jpg
+  - filename: PARCfest-2014_4.jpg
+  - filename: PARCfest-2014_5.jpg
+  - filename: PARCfest-2014_6.jpg
+  - filename: PARCfest-2014_7.jpg
+  - filename: PARCfest-2014_8.jpg
+  - filename: PARCfest-2014_9.jpg
+  - filename: PARCfest-2014_10.jpg
+  - filename: PARCfest-2014_11.jpg
+  - filename: PARCfest-2014_12.jpg
+  - filename: PARCfest-2014_13.jpg
+  - filename: PARCfest-2014_15.jpg
+  - filename: PARCfest-2014_16.jpg
+  - filename: PARCfest-2014_17.jpg
+  - filename: PARCfest-2014_18.jpg
+  - filename: PARCfest-2014_19.jpg
+  - filename: PARCfest-2014_20.jpg
+  - filename: PARCfest-2014_21.jpg
+  - filename: PARCfest-2014_22.jpg
+  - filename: PARCfest-2014_23.jpg
+  - filename: PARCfest-2014_24.jpg
+  - filename: PARCfest-2014_25.jpg
+  - filename: PARCfest-2014_26.jpg
