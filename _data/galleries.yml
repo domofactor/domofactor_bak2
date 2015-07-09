@@ -1,19 +1,39 @@
-- id: gallery
-  imagefolder: /img/galleries/gallery-standard-post
+- id: teamorange_school
+  imagefolder: /img/Catching_The_Drift_Bug
   images:
-  - filename: 1.jpg
-    alttext: Bloom Flat
-  - filename: 2.jpg
-    alttext: Bloom
-  - filename: 3.jpg
-    alttext: Blossom in a Star
-  - filename: 4.jpg
-    alttext: Blossom
-  - filename: 5.jpg
-    alttext: Bubbly Bloom
-  - filename: 6.jpg
-    alttext: Rays of Gold
-  - filename: 7.jpg
-    alttext: Exotic
-  - filename: 8.jpg
-    alttext: Filled out
+  - filename: teamorange_school_1.jpg
+  - filename: teamorange_school_2.jpg
+  - filename: teamorange_school_3.jpg
+- id: evd_school
+  imagefolder: /img/Catching_The_Drift_Bug
+  images:
+  - filename: evd_school2.jpg
+  - filename: evd_school3.jpg
+- id: evd117
+  imagefolder: /img/Catching_The_Drift_Bug
+  images:
+  - filename: evd117_1.jpg
+  - filename: evd117_2.jpg
+  - filename: evd117_3.jpg
+  - filename: evd117_4.jpg
+  - filename: evd117_5.jpg
+  - filename: evd117_6.jpg
+  - filename: evd117_7.jpg
+  - filename: evd117_8.jpg
+  - filename: evd117_9.jpg
+- id: PARC_20140518
+  imagefolder: /img/Catching_The_Drift_Bug
+  images:
+  - filename: PARC_20140518_1.jpg
+  - filename: PARC_20140518_2.jpg
+  - filename: PARC_20140518_3.jpg
+  - filename: PARC_20140518_5.jpg
+  - filename: PARC_20140518_6.jpg
+  - filename: PARC_20140518_7.jpg
+  - filename: PARC_20140518_8.jpg
+  - filename: PARC_20140518_9.jpg
+  - filename: PARC_20140518_10.jpg
+  - filename: PARC_20140518_11.jpg
+  - filename: PARC_20140518_12.jpg
+  - filename: PARC_20140518_13.jpg
+  - filename: PARC_20140518_14.jpg

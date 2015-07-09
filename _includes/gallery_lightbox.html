@@ -1,6 +1,11 @@
 <div class="masonry">
+    {% if include.gallery-id %}
+        {% assign id = include.gallery-id %}
+    {% else %}
+        {% assign id = page.gallery-id %}
+    {% endif %}
     {% for gallery in site.data.galleries %}
-        {% if gallery.id == page.gallery-id %}
+        {% if gallery.id == id %}
             {% for image in gallery.images %}
                 <a href="{{ gallery.imagefolder | prepend: site.baseurl | replace: '//', '/' }}/{{ image.filename }}" data-imagelightbox="f" class="noline">
                     <img src="{{ gallery.imagefolder | prepend: site.baseurl | replace: '//', '/' }}/{{ image.filename }}" alt="{{ image.alttext }}">
