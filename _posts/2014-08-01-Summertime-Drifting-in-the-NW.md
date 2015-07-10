@@ -61,13 +61,13 @@ Towards the end, I managed to rip off my exhaust from 50-50 grinding a rumble-st
 ![]({{ site.url }}/img/{{ page.title | replace:' ','_' }}/PARCfest-2014_22.jpg)
 <br>
 
-In summation, here's 5 reasons 5 reasons why summertime drifting in the NW is super duper awesome!
-![]({{ site.url }}/img/{{ page.title | replace:' ','_' }}/PARCfest-2014_7.jpg)
+here's 5 reasons why summertime drifting in the NW is super duper awesome!
 1.  Nice People
 2.  Helpful Community
 3.  Fun Tracks
 4.  Perfect Weather
 5.  Drift Trains`
+![]({{ site.url }}/img/{{ page.title | replace:' ','_' }}/PARCfest-2014_7.jpg)
 <br>
 
 For those who have never been or debated on making the trip I highly reccomend checking out PARC Fest 2015! You wont regret it!
